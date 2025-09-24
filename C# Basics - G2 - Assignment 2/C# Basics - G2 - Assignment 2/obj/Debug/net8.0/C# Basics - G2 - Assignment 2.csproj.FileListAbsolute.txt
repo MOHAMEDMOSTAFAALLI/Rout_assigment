@@ -1,0 +1,15 @@
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\bin\Debug\net8.0\C# Basics - G2 - Assignment 2.exe
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\bin\Debug\net8.0\C# Basics - G2 - Assignment 2.deps.json
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\bin\Debug\net8.0\C# Basics - G2 - Assignment 2.runtimeconfig.json
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\bin\Debug\net8.0\C# Basics - G2 - Assignment 2.dll
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\bin\Debug\net8.0\C# Basics - G2 - Assignment 2.pdb
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\C# Basics - G2 - Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\C# Basics - G2 - Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\C# Basics - G2 - Assignment 2.AssemblyInfo.cs
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\C# Basics - G2 - Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\C# Basics - G2 - Assignment 2.sourcelink.json
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\C# Basics - G2 - Assignment 2.dll
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\refint\C# Basics - G2 - Assignment 2.dll
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\C# Basics - G2 - Assignment 2.pdb
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\C# Basics - G2 - Assignment 2.genruntimeconfig.cache
+C:\Users\Moham\Desktop\C# Basics - G2 - Assignment 2\C# Basics - G2 - Assignment 2\obj\Debug\net8.0\ref\C# Basics - G2 - Assignment 2.dll
