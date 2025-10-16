@@ -1,0 +1,15 @@
+C:\Users\Moham\Desktop\ass5\ass5\bin\Debug\net9.0\ass5.exe
+C:\Users\Moham\Desktop\ass5\ass5\bin\Debug\net9.0\ass5.deps.json
+C:\Users\Moham\Desktop\ass5\ass5\bin\Debug\net9.0\ass5.runtimeconfig.json
+C:\Users\Moham\Desktop\ass5\ass5\bin\Debug\net9.0\ass5.dll
+C:\Users\Moham\Desktop\ass5\ass5\bin\Debug\net9.0\ass5.pdb
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ass5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ass5.AssemblyInfoInputs.cache
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ass5.AssemblyInfo.cs
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ass5.csproj.CoreCompileInputs.cache
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ass5.sourcelink.json
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ass5.dll
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\refint\ass5.dll
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ass5.pdb
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ass5.genruntimeconfig.cache
+C:\Users\Moham\Desktop\ass5\ass5\obj\Debug\net9.0\ref\ass5.dll
