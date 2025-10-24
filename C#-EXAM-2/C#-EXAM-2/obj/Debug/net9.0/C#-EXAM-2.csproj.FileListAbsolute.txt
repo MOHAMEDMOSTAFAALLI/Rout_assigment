@@ -1,0 +1,15 @@
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\bin\Debug\net9.0\C#-EXAM-2.exe
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\bin\Debug\net9.0\C#-EXAM-2.deps.json
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\bin\Debug\net9.0\C#-EXAM-2.runtimeconfig.json
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\bin\Debug\net9.0\C#-EXAM-2.dll
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\bin\Debug\net9.0\C#-EXAM-2.pdb
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\C#-EXAM-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\C#-EXAM-2.AssemblyInfoInputs.cache
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\C#-EXAM-2.AssemblyInfo.cs
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\C#-EXAM-2.csproj.CoreCompileInputs.cache
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\C#-EXAM-2.sourcelink.json
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\C#-EXAM-2.dll
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\refint\C#-EXAM-2.dll
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\C#-EXAM-2.pdb
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\C#-EXAM-2.genruntimeconfig.cache
+C:\Users\Moham\Desktop\C#-EXAM-2\C#-EXAM-2\obj\Debug\net9.0\ref\C#-EXAM-2.dll
