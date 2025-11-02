@@ -1,0 +1,15 @@
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\bin\Debug\net9.0\ADV 02 - G2.exe
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\bin\Debug\net9.0\ADV 02 - G2.deps.json
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\bin\Debug\net9.0\ADV 02 - G2.runtimeconfig.json
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\bin\Debug\net9.0\ADV 02 - G2.dll
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\bin\Debug\net9.0\ADV 02 - G2.pdb
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ADV 02 - G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ADV 02 - G2.AssemblyInfoInputs.cache
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ADV 02 - G2.AssemblyInfo.cs
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ADV 02 - G2.csproj.CoreCompileInputs.cache
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ADV 02 - G2.sourcelink.json
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ADV 02 - G2.dll
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\refint\ADV 02 - G2.dll
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ADV 02 - G2.pdb
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ADV 02 - G2.genruntimeconfig.cache
+C:\Users\Moham\Desktop\ADV 02 - G2\ADV 02 - G2\obj\Debug\net9.0\ref\ADV 02 - G2.dll
