@@ -1,0 +1,5 @@
+C:\Users\Moham\Desktop\ADV 04 - G1\ADV 04 - G1\obj\Debug\net9.0\ADV 04 - G1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\Desktop\ADV 04 - G1\ADV 04 - G1\obj\Debug\net9.0\ADV 04 - G1.AssemblyInfoInputs.cache
+C:\Users\Moham\Desktop\ADV 04 - G1\ADV 04 - G1\obj\Debug\net9.0\ADV 04 - G1.AssemblyInfo.cs
+C:\Users\Moham\Desktop\ADV 04 - G1\ADV 04 - G1\obj\Debug\net9.0\ADV 04 - G1.csproj.CoreCompileInputs.cache
+C:\Users\Moham\Desktop\ADV 04 - G1\ADV 04 - G1\obj\Debug\net9.0\ADV 04 - G1.sourcelink.json
