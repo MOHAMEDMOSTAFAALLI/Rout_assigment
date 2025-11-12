@@ -1,0 +1,5 @@
+C:\Users\Moham\Desktop\LINQ 1 - G2\LINQ 1 - G2\obj\Debug\net9.0\LINQ 1 - G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\Desktop\LINQ 1 - G2\LINQ 1 - G2\obj\Debug\net9.0\LINQ 1 - G2.AssemblyInfoInputs.cache
+C:\Users\Moham\Desktop\LINQ 1 - G2\LINQ 1 - G2\obj\Debug\net9.0\LINQ 1 - G2.AssemblyInfo.cs
+C:\Users\Moham\Desktop\LINQ 1 - G2\LINQ 1 - G2\obj\Debug\net9.0\LINQ 1 - G2.csproj.CoreCompileInputs.cache
+C:\Users\Moham\Desktop\LINQ 1 - G2\LINQ 1 - G2\obj\Debug\net9.0\LINQ 1 - G2.sourcelink.json
